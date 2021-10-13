@@ -6,13 +6,13 @@ Russian sentiment analysis evaluation SentiRuEval-2016 devoted to reputation mon
 # Repository description
 There are two domains datasets in Russian: banks and telecom companies.
 
-– bank_train_2016.xml 
-– banks_test_2016.xml
-– banks_test_etalon.xml
+* bank_train_2016.xml 
+* banks_test_2016.xml
+* banks_test_etalon.xml
 
-– tkk_test_2016.xml
-– tkk_test_etalon.xml
-– tkk_train_2016.xml
+* tkk_test_2016.xml
+* tkk_test_etalon.xml
+* tkk_train_2016.xml
 
 You can find official results of sentiment analysis evaluation SentiRuEval-2016 here: Results_SentiRueval_2016.xlsx
 
